@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#Trabajo de Lucia Mendez(280717), Agustina Del Pino(312737) y Antony Correa(307641)  M1B
+
 sudo useradd mario 
 usuario="mario"
 contrasena="mario"
